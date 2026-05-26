@@ -1,0 +1,6 @@
+{
+  "name": "BRO MUSIK EQ",
+  "description": "Professional All System Audio Processor, Digital Mixer, and 31-Band Parametric Equalizer for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
